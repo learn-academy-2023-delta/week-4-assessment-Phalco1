@@ -114,6 +114,10 @@ const newArray = (dataTypesArray1, dataTypesArray2) => {
   return [...dataTypesArray1, ...dataTypesArray2]
 }
 
+// I felt like I had the test right when I started on the method. I tried to use the material LEARN provides and even some google outside sources to get a better understanding on how to combine the arrays and not duplicate. From my understanding, I think that's part of my error at times that it conflicted. I'm still not to saavy understanding how to properly read the errors to understand my next step. I was sucessful using the spread method in my first assessment so I thought that might a better route and I couldnt get the code to work. If I had more time I think I'd try concat() or another method. I typically seen the concat method when searching how to combine 2 array without duplicates.
+
+
+
 // yarn run v1.22.19
 // warning package.json: No license field
 // $ /Users/learnacademy/Desktop/week-4-assessment-Phalco1/node_modules/.bin/jest
